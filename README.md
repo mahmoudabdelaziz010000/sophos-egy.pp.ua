@@ -1,0 +1,2 @@
+# sophos-egy.pp.ua
+SOPHOS AUTHORIZED PARTNER
